@@ -1,0 +1,8 @@
+
+# generated files
+build/
+dist/
+
+# private
+nbproject/private/
+
